@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Yaxuan Chen
+# About me
 
 Undergraduate Student in Software Engineering | Machine Intelligence Track  
 Tongji University
